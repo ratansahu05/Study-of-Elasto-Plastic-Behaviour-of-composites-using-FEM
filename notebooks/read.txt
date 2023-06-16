@@ -1,1 +1,1 @@
-
+This folder contains python code which will able us to import micrograph into FEniCS and apply displacement on it and see stress distribution on it.
